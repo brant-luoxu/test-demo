@@ -6,3 +6,4 @@
 
 　git pull 拉取代码
   释放存在堆栈的代码
+　git stash pop
